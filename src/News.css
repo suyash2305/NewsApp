@@ -1,0 +1,11 @@
+#first_con{
+    /* border:2px solid black; */
+    /* display: flex;
+    justify-content: row; */
+    display: inline-block;
+    position: relative;
+    margin-left: 130px;
+    margin-top: 50px;
+
+    
+}

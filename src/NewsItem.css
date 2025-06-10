@@ -1,0 +1,16 @@
+/* #n_item{
+   height: 230px;
+   width: 300px;
+   border: 2px solid black; 
+} */
+#outer_n{
+    /* border: 2px solid black; */
+    width: 320px;
+    height: 360px;
+}
+
+#img{
+    height: 170px;
+    width: 315px; 
+    justify-content: center;
+}
